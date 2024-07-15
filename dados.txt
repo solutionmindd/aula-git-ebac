@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Andressa Rodrigues
+-Profissão: QA
+-Cidade: Lisboa/Portugal 
+-O que faz nas horas vaga: Gosto de conhecer cafés diferentes, ler, assistir vlog, e ouvir música.
+-Feedback sobre o curso Qualidade de Software: Estou gostando bastante, principalmente porque o professor explica de uma forma calma e clara.
+-Feedback sobre a plataforma de estudo da EBAC: Deixei como sugestão, caso o usuário click na atividade mas não assistiu todas as aulas, não marcar atividade como pendente.
 
 Obrigado!!!
 
